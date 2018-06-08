@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "vs-wal"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# A color theme for Visual Studio Code using pywal
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# How to install the theme
 
-**Enjoy!**
+1. install pywal
+2. ´´git clone https://github.com/Bluedrack28/vscode-wal.git ~/.vscode/extensions/´´ or ´´git clone https://github.com/Bluedrack28/vscode-wal.git ~/.vscode-insider/extensions/´´ if you use code-insider like me ^^
+3. in the repository ´´cp templates/color-vscode-theme.json ~/.config/wal/templates/''
+4. normally run ´´wal -R´´ and the theme will work on vscode
+

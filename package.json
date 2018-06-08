@@ -1,0 +1,22 @@
+{
+    "name": "vs-wal",
+    "displayName": "vs-wal",
+    "description": "A wal color theme for vscode",
+    "version": "0.0.1",
+    "publisher": "Bluedrack28",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vs-wal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-wal-color-theme.json"
+            }
+        ]
+    }
+}

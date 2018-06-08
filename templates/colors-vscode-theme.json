@@ -35,7 +35,7 @@
 		"button.background": "{color1}",
 		"button.foreground": "{foreground}",
 		"editorGroupHeader.tabsBackground": "{background}",
-		"editorGroup.dropBackground": "{color1}60",
+		"editorGroup.dropBackground": "{color1}60"
 	}},
 	"tokenColors": [
 		{{

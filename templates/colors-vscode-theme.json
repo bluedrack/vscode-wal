@@ -11,21 +11,21 @@
 		"activityBar.foreground": "{foreground}",
 		"activityBarBadge.foreground": "{foreground}",
 		"badge.foreground": "{foreground}",
-		"badge.background": "{color10}",
+		"badge.background": "{background}",
 		"terminal.background": "{background}",
 		"terminal.foreground": "{foreground}",
 		"sideBar.background": "{background}",
 		"sideBar.foreground": "{foreground}",
 		"statusBar.background": "{background}",
-		"statusBar.debuggingBackground": "#5e81ac",
-		"statusBar.debuggingForeground": "#d8dee9",
-		"statusBar.noFolderForeground": "#d8dee9",
-		"statusBar.noFolderBackground": "#3b4252",
+		"statusBar.debuggingBackground": "{foreground}",
+		"statusBar.debuggingForeground": "{background}",
+		"statusBar.noFolderForeground": "{foreground}",
+		"statusBar.noFolderBackground": "{background}",
 		"statusBar.foreground": "{foreground}",
 		"tab.activeBorder": "#88c0d000",
 		"tab.unfocusedActiveBorder": "#88c0d000",
-		"tab.activeBackground": "{color8}",
-		"tab.activeForeground": "{background}",
+		"tab.activeBackground": "{foreground}10",
+		"tab.activeForeground": "{foreground}",
 		"tab.inactiveBackground": "{background}",
 		"tab.inactiveForeground": "{foreground}",
 		"tab.unfocusedActiveForeground": "{color1}",
@@ -35,7 +35,15 @@
 		"button.background": "{color1}",
 		"button.foreground": "{foreground}",
 		"editorGroupHeader.tabsBackground": "{background}",
-		"editorGroup.dropBackground": "{color1}60"
+		"editorGroup.dropBackground": "{color1}60",
+		"textLink.activeForeground": "{color3}",
+		"textLink.foreground": "{color2}",
+		"list.activeSelectionBackground": "{color2}",
+		"list.focusBackground": "{color2}",
+		"list.hoverForeground": "{foreground}",
+		"list.hoverBackground": "{color2}30",
+		"list.dropBackground": "{color2}30"
+
 	}},
 	"tokenColors": [
 		{{
@@ -112,7 +120,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {{
-				"foreground": "#89DDFF"
+				"foreground": "{color6}"
 			}}
 		}},
 		{{

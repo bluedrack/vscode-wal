@@ -8,6 +8,10 @@
 3. in the repository `./script.js` who will install the current template for vscode in the pywal templates
 4. normally run `wal -R` and select the theme in vscode
 
+# Screenshot
+
+![screenshot](screenshot.png)
+
 # **HELP ME !**
 
 I do not have enough time to devote to this project. I need your help. If you have a little bit of time and a little programming skill. If so, you can gladly make a pull request.

@@ -4,8 +4,8 @@
 # How to install the theme
 
 1. Install [pywal](https://github.com/dylanaraps/pywal)
-2. Download the repository with `git clone https://github.com/Bluedrack28/vscode-wal.git ~/.vscode/extensions/`
-3. Go to the repository (`~/.vscode/extensions`) and run `./script.sh` which will install the current template for vscode
+2. Download the repository with `git clone https://github.com/Bluedrack28/vscode-wal.git ~/.vscode/extensions/vscode-wal`
+3. Go to the repository (`~/.vscode/extensions/vscode-wal`) and run `./script.sh` which will install the current template for vscode
 4. Normally run `wal -R` and select the theme in vscode
 
 # Screenshot
